@@ -1,6 +1,7 @@
 ## Intro
 
-This is demo test for ReplyingKafkaTemplate
+This is demo test for ReplyingKafkaTemplate.
+Server code is here : https://github.com/junhee-ko/demo-replying-kafka-template-server
 
 ## Architecture
 
